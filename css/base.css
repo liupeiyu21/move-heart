@@ -1,0 +1,12 @@
+#name{
+    font-size: 60px;
+    transition: font-size 0.01s ease-in-out;
+    text-align: center;
+}
+#name::after{
+    content: "❤️";
+    position: fixed;
+}
+#kuku2{
+    margin-top: 110px;
+}
